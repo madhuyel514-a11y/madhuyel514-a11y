@@ -6,10 +6,10 @@ I'm an AI & ML engineering undergraduate passionate about building intelligent a
 
 I enjoy exploring Generative AI, Multi-Agent Systems, Backend Development, and Distributed Systems to solve real-world problems.
 
-- 🎯 CGPA: 9.6/10
-- 💻 Solved 100+ LeetCode problems
-- 🤖 Interested in Agentic AI, Generative AI & Software Engineering
-- 🏆 1st Prize – NCETT 2026
+- CGPA: 9.6/10
+- Solved 100+ LeetCode problems
+- Interested in Agentic AI, Generative AI & Software Engineering
+- 1st Prize – NCETT 2026
 
 ---
 
@@ -88,9 +88,9 @@ Intelligent AI Workflow Orchestration (In Progress)
 
 ### Awards & Recognitions
 
-- 🥇 **NCETT 2026:** 1st Prize – PharmaGuard.
-- 🏅 **IDEATHON 2.0:** Top 12 out of 130 teams – Team CMP Coders, SentinelMesh Studio.
-- 🏅 **ParvaM Internship:** Top 5 out of 20 teams – SentinelMesh.
+- **NCETT 2026:** 1st Prize – PharmaGuard.
+- **IDEATHON 2.0:** Top 12 out of 130 teams – Team CMP Coders, SentinelMesh Studio.
+- **ParvaM Internship:** Top 5 out of 20 teams – SentinelMesh.
 
 ### Hackathon Participation
 
@@ -128,6 +128,6 @@ Intelligent AI Workflow Orchestration (In Progress)
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/madhugna-yelchuri-97b595338/
-- 🐙 GitHub: https://github.com/madhuyel514-a11y
+- LinkedIn: https://www.linkedin.com/in/madhugna-yelchuri-97b595338/
+- GitHub: https://github.com/madhuyel514-a11y
 
