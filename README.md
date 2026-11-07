@@ -29,6 +29,19 @@ I enjoy exploring Generative AI, Multi-Agent Systems, Backend Development, and D
 
 ---
 
+## 🌱 Currently Exploring
+
+- Agentic AI and Multi-Agent Systems
+- Generative AI and Multimodal AI
+- Retrieval-Augmented Generation (RAG)
+- LLM Applications and Prompt Engineering
+- AI Workflow Orchestration and Automation
+- Scalable Backend Architecture and Microservices
+- Distributed Systems and Fault-Tolerant Computing
+- System Design and Cloud-Native Development
+
+---
+
 ## 🚀 Featured Projects
 
 ### 1. PharmaGuard
@@ -67,8 +80,7 @@ Intelligent AI Workflow Orchestration (In Progress)
 - **WhatsApp Message Notification Router:** Context-aware notification routing using Gemini and deterministic fallback logic.
 - **Invoice and Billing System:** Full-stack billing application using Java Spring Boot, React and MySQL.
 - **Kisaan Connect:** AI-powered multilingual crop advisory system.
-- **Autonomous AI Debugging System:** AI-agent-based software debugging prototype.
-- **AI Resume Bias Detector:** AI-based resume screening bias detection concept.
+- **EventEase AI:** AI-powered celebration planning platform featuring personalised event plans, budget optimisation, BudgetGuard, Adaptive Recovery Planner, and What-If analysis using Gemini and Groq.
 
 ---
 
@@ -83,11 +95,11 @@ Intelligent AI Workflow Orchestration (In Progress)
 ### Hackathon Participation
 
 - **Smart India Hackathon 2025:** Kisaan Connect – AI-powered multilingual crop advisory system.
-- **Smart India Hackathon 2026:** Participation.
+- **Smart India Hackathon 2026:** Team CommandShield – 3D ULPIN Generation & Vertical Property Mapping System.
 - **SAP HackFest 2025:** AI-based Resume Bias Detector – idea submission.
 - **RIFT '26:** PharmaGuard – AI-powered pharmacogenomic risk prediction.
 - **Ascent Annual Builders TechFest 2026:** Autonomous AI Debugging System.
-- **PromptWars Challenge 4:** Smart Stadium AI Assistant for FIFA World Cup 2026.
+- **PromptWars Challenge 5:** Celebration & Event Planner: EventEase AI – GenAI-powered celebration planning assistant for weddings, birthdays and community events, featuring budget management, timelines, vendor checklists and personalised ideas.
 
 ---
 
